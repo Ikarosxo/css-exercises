@@ -83,4 +83,5 @@ a{
 
 .card{
   flex-basis: 300px;
+  padding: 16px;
 }
